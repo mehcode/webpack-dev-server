@@ -12,7 +12,7 @@
     "http-proxy": "^1.11.2",
     "optimist": "~0.6.0",
     "serve-index": "^1.7.2",
-    "socket.io": "socketio/socket.io#f5b753",
+    "socket.io": "socketio/socket.io#210e68",
     "socket.io-client": "socketio/socket.io-client#4c22f3",
     "stream-cache": "~0.0.1",
     "strip-ansi": "^3.0.0",
